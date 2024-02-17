@@ -1,5 +1,10 @@
-# Langchain Chatbot: evaluated with TruLens
+# LangChain Chatbots (WIP)
 
-## to - do:
-- figure out feedback functions
-- create UI / streamlit app for chatbot
+## Which Bank
+Chatbot created for ? architecture?
+
+## Stock Buddy
+Chatbot created for ? architecture?
+
+## Next Steps
+stock buddy plans / goals ?
